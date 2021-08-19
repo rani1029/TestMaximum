@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\TestMaximum\TestMaximm\obj\Debug\netcoreapp3.1\TestMaximm.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\TestMaximum\TestMaximm\obj\Debug\netcoreapp3.1\TestMaximm.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\TestMaximum\TestMaximm\obj\Debug\netcoreapp3.1\TestMaximm.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\TestMaximum\TestMaximm\obj\Debug\netcoreapp3.1\TestMaximm.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\TestMaximum\TestMaximm\bin\Debug\netcoreapp3.1\TestMaximm.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\TestMaximum\TestMaximm\bin\Debug\netcoreapp3.1\TestMaximm.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\TestMaximum\TestMaximm\bin\Debug\netcoreapp3.1\TestMaximm.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\TestMaximum\TestMaximm\bin\Debug\netcoreapp3.1\TestMaximm.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\TestMaximum\TestMaximm\bin\Debug\netcoreapp3.1\TestMaximm.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\TestMaximum\TestMaximm\bin\Debug\netcoreapp3.1\TestMaximm.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\TestMaximum\TestMaximm\obj\Debug\netcoreapp3.1\TestMaximm.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\TestMaximum\TestMaximm\obj\Debug\netcoreapp3.1\TestMaximm.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\TestMaximum\TestMaximm\obj\Debug\netcoreapp3.1\TestMaximm.genruntimeconfig.cache
